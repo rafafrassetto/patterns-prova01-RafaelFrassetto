@@ -6,7 +6,7 @@ Patterns Criacionais:
 
 - Factory Method
 
-
+![alt text](image-2.png)
 
 - Abstract Factory
 
