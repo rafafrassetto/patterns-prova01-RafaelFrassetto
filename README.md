@@ -17,3 +17,5 @@ Patterns Criacionais:
 ![alt text](image.png)
 
 - Singleton
+
+![alt text](image-3.png)
